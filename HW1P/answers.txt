@@ -1,0 +1,33 @@
+CS 1674 - Homework 1 Programming
+By Fransisca K Larasati
+
+FKL1 HW1P ANSWERS:
+Matrices and Vectors:
+1. In script.
+2. 	40.500248
+3. 	4.758281
+4. In script.
+5. In script.
+
+Loops:
+6. In script.
+7. In script.
+
+Functions:
+8. In script.
+9. In script.
+10. In script.
+11. In script.
+
+Images:
+12. 	750x1500x3
+13. In script.
+14. 	12
+15. In script.
+	row = 604
+	col = 1290
+16. In script.
+17. In script.
+18. In script.
+19. In script.
+
